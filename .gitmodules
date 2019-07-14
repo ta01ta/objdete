@@ -1,4 +1,0 @@
-[submodule "objectdetection/faster-rcnn.pytorch"]
-	path = objectdetection/faster-rcnn.pytorch
-	url = https://github.com/ta01ta/faster-rcnn.pytorch.git
-	branch = pytorch-1.0
